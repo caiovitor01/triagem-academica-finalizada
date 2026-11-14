@@ -1,0 +1,6 @@
+{
+  "name": "UniTriagem - Sistema Acadêmico de Chamados & Triagem Inteligente",
+  "description": "Plataforma acadêmica de gestão e triagem híbrida automatizada de chamados estudantis com classificação de setor e urgência, controle de acesso e painéis para alunos e atendentes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
